@@ -1,7 +1,5 @@
 # Sunday-cleaning-tingz
-
-Simple overview of use/purpose.
-
+The purpose of this file is to clean up the existing code.
 ## Acceptance Criteria
 
 The website is done when all 3 header links work, which they lead you to their attached sections.
